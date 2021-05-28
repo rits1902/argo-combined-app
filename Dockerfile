@@ -1,4 +1,4 @@
-FROM klakegg/hugo:0.78.2-alpine
+FROM klakegg/hugo:0.83.1-alpine
 RUN apk update && apk upgrade && apk add --no-cache -U git
 COPY . /src
 RUN make init
