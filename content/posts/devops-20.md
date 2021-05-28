@@ -7,4 +7,4 @@ draft: false
 ### Automating the Continuous Deployment Pipeline with Containerized Microservices
 
 **This book is based on very old technology and the code behind it is not maintained anymore.**
-
+ou não...
