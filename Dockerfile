@@ -1,5 +1,5 @@
 FROM klakegg/hugo:0.78.2-alpine
-RUN apk add -U git
+RUN apk update && apk upgrade && apk add --no-cache -U git
 COPY . /src
 RUN make init
 RUN make build
