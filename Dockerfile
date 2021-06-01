@@ -1,5 +1,5 @@
-FROM klakegg/hugo:0.83.1
-RUN apk update && apk upgrade && apk add --no-cache -U git
+FROM klakegg/hugo:0.83.1-ubuntu
+RUN apt update && apt install git
 COPY . /src
 RUN make init
 RUN make build
