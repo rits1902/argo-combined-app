@@ -1,5 +1,5 @@
 FROM klakegg/hugo:0.83.1-ubuntu
-RUN apt update && apt install git
+RUN apt update && apt install -y git
 COPY . /src
 RUN make init
 RUN make build
