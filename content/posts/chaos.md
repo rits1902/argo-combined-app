@@ -4,7 +4,7 @@ date: 2018-11-09T01:24:49+02:00
 draft: false
 ---
 
-## Kubernetes Chaos Engineering With Chaos Toolkit And Istio
+## Kubernetes Chaos Engineering With Chaos Toolkit And Istio com amor
 
 The **video course** is available in **[Udemy](https://www.udemy.com/course/kubernetes-chaos-engineering-with-chaos-toolkit-and-istio/?referralCode=02D178244316CE05E24A)**.
 
