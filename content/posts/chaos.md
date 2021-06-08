@@ -12,7 +12,7 @@ The **book** is available from **[Amazon](https://amzn.to/2xUscyO)**, **[LeanPub
 
 ![](/img/chaos-smaller.jpg#floatright)
 
-There are very few things as satisfying as destruction, especially when we're frustrated.
+There are very few things as satisfying as destruction, especially when we're frustrated TESTE.
 
 How often did it happen that you have an issue that you cannot solve and that you just want to scream or destroy things? Did you ever have a problem in production that is negatively affecting a lot of users? Were you under a lot of pressure to solve it, but you could not "crack" it as fast as you should. It must have happened, at least once, that you wanted to take a hammer and destroy servers in your datacenter. If something like that never happened to you, then you were probably never in a position under a lot of pressure. In my case, there were countless times when I wanted to destroy things. But I didn't, for quite a few reasons. Destruction rarely solves problems, and it usually leads to negative consequences. I cannot just go and destroy a server and expect that I will not be punished. I cannot hope to be rewarded for such behavior.
 
