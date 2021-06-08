@@ -58,7 +58,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "The DevOps Toolkit"
-      subtitle = "Catalog, Patterns, And Blueprints TESTE"
+      subtitle = "Catalog, Patterns, And Blueprints"
       image = "catalog-small.jpg"
       url = "posts/catalog"
 
@@ -100,7 +100,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "The DevOps 2.2 Toolkit"
-      subtitle = "Building Self-Adaptive And Self-Healing Docker Clusters TESTE"
+      subtitle = "Building Self-Adaptive And Self-Healing Docker Clusters"
       image = "devops22-small.jpg"
       url = "posts/devops-22"
 
