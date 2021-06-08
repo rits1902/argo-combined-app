@@ -58,7 +58,7 @@ disqusShortname = ""
 
     [[params.tiles.showcase]]
       title = "The DevOps Toolkit"
-      subtitle = "Catalog, Patterns, And Blueprints"
+      subtitle = "Catalog, Patterns, And Blueprints TESTE"
       image = "catalog-small.jpg"
       url = "posts/catalog"
 
