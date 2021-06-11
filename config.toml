@@ -46,7 +46,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "The DevOps Toolkit Series TESTE"
+    title = "The DevOps Toolkit Series TESTANDO"
     subtitle = "Where DevOps becomes practice"
     buttonText = "Get Started"
 
