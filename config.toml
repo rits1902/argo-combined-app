@@ -1,7 +1,7 @@
 # Site settings
 baseURL = "/"
 languageCode = "en-us"
-title = "The DevOps Toolkit Series TESTE 4"
+title = "The DevOps Toolkit Series TESTE NOIX"
 theme = "forty"
 
 # Enter your tracking code to enable Google Analytics
